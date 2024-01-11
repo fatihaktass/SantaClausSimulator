@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: d3d98a6e8e4aaff4d80fa8936874a766
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_0
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 969
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af793384c855d4c42a5174f325d435d3
+      internalID: 856327142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f28773d5ffe0f145a1672511131c8aa
+      internalID: 276764815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 480
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72914e38cb8ea8c4398c965113f3d6c0
+      internalID: 1450698329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 373
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bc845fa4df1444c99700e8226a9d92
+      internalID: -453971429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fa394cfa66b9048bb2c86d9b32861f
+      internalID: -1548298213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 433
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bd13f765c070149bb32baa45ac7b3d
+      internalID: 1667790362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8318bd1a1a750af4a8b607e46425f887
+      internalID: 2125708965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c7f0c76dc0fd040884b84afc9b4583
+      internalID: -1587400210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52dac0dab4220e409a54d553987c06c
+      internalID: -264285608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a89d507d2453f44a8e5f0850f5d786
+      internalID: 1679314244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20f3085761218343ab498d6ac195941
+      internalID: 1098119920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 561
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b811cb658d331f74f86fb2431a01b030
+      internalID: 1632622261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cf68b08b9c7b8409d7afab76d3ad0f
+      internalID: -1045187192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 401
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1bc70096d64eb418fd7fbf7145e8fb
+      internalID: 1143291295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 401
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7117da019c84b49baa2e087c001b8d
+      internalID: 1942420138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 433
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ca7f8760037314eb8fd38a128ca9e1
+      internalID: 767688020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 817
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f612e85a5fe1e448ad5b9da6dfb06df
+      internalID: 1330316379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 819
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238153002f146c744a9f1d495e234f1a
+      internalID: 1053899881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 945
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc12c220f969e4583d37659ac37d5a
+      internalID: -866487904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 944
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c562681ca6e44f14584528f8fcd21766
+      internalID: 1606025536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 945
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e49e9102c33505478a9b9a402fd4146
+      internalID: -2062243046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 560
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f327929f674cf44b74a3968018e821
+      internalID: 186272872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e95d566996c6b44829bea7830f5aec
+      internalID: -226475432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705cdb32f685c9849b6c2b5ca9da98d0
+      internalID: -656509213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Pelican Town Winter_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cce14f4e95f79a479159f1dbcfff03f
+      internalID: 555257471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Stardew Valley - Pelican Town Winter_0: 856327142
+      PC Computer - Stardew Valley - Pelican Town Winter_1: 276764815
+      PC Computer - Stardew Valley - Pelican Town Winter_10: 1098119920
+      PC Computer - Stardew Valley - Pelican Town Winter_11: 1632622261
+      PC Computer - Stardew Valley - Pelican Town Winter_12: -1045187192
+      PC Computer - Stardew Valley - Pelican Town Winter_13: 1143291295
+      PC Computer - Stardew Valley - Pelican Town Winter_14: 1942420138
+      PC Computer - Stardew Valley - Pelican Town Winter_15: 767688020
+      PC Computer - Stardew Valley - Pelican Town Winter_16: 1330316379
+      PC Computer - Stardew Valley - Pelican Town Winter_17: 1053899881
+      PC Computer - Stardew Valley - Pelican Town Winter_18: -866487904
+      PC Computer - Stardew Valley - Pelican Town Winter_19: 1606025536
+      PC Computer - Stardew Valley - Pelican Town Winter_2: 1450698329
+      PC Computer - Stardew Valley - Pelican Town Winter_20: -2062243046
+      PC Computer - Stardew Valley - Pelican Town Winter_21: 186272872
+      PC Computer - Stardew Valley - Pelican Town Winter_22: -226475432
+      PC Computer - Stardew Valley - Pelican Town Winter_23: -656509213
+      PC Computer - Stardew Valley - Pelican Town Winter_24: 555257471
+      PC Computer - Stardew Valley - Pelican Town Winter_25: 742326811
+      PC Computer - Stardew Valley - Pelican Town Winter_3: -453971429
+      PC Computer - Stardew Valley - Pelican Town Winter_4: -1548298213
+      PC Computer - Stardew Valley - Pelican Town Winter_5: 1667790362
+      PC Computer - Stardew Valley - Pelican Town Winter_6: 2125708965
+      PC Computer - Stardew Valley - Pelican Town Winter_7: -1587400210
+      PC Computer - Stardew Valley - Pelican Town Winter_8: -264285608
+      PC Computer - Stardew Valley - Pelican Town Winter_9: 1679314244
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
